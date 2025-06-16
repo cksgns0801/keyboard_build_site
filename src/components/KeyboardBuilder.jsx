@@ -352,7 +352,7 @@ export default function KeyboardBuilder() {
       <header className="col-span-full flex justify-between items-center py-4">
         <h1 className="text-3xl font-bold">리오제작소 베놈 견적 계산기</h1>
         <a
-          href="https://mkt.shopping.naver.com/link/682c236a815d2663a4635c19"
+          href="https:/talk.naver.com/W5TAOC"
           target="_blank"
           className="text-green-600"
         >
