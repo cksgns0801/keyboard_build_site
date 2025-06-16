@@ -346,13 +346,12 @@ export default function KeyboardBuilder() {
       foam: false,
     });
   };
-
   return (
     <div className="p-4 max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-4">
       <header className="col-span-full flex justify-between items-center py-4">
         <h1 className="text-3xl font-bold">리오제작소 베놈 견적 계산기</h1>
         <a
-          href="https:/talk.naver.com/W5TAOC"
+          href="https://talk.naver.com/W5TAOC"
           target="_blank"
           className="text-green-600"
         >
