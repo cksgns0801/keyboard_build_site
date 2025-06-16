@@ -357,6 +357,13 @@ export default function KeyboardBuilder() {
         >
           리오제작소 네이버스토어 바로가기
         </a>
+        <a
+          href="https://discordapp.com/users/208930835175309312"
+          target="_blank"
+          className="text-blue-600"
+        >
+          리오제작소 디스코드 바로가기
+        </a>
       </header>
 
       <div className="col-span-full flex gap-4 mb-4">
