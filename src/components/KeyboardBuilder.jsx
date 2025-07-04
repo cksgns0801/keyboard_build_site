@@ -90,7 +90,11 @@ const components = {
   ],
   stabilizer: [
     { name: "체테빌", price: 3600, image: "/images/stab/cheery.png" },
-    { name: "체테빌 기본 포함", price: 0, image: "/images/stab/cheery.png" },
+    {
+      name: "체테빌 기본 포함, 스테빌 변경시, 기본스테빌은 제공되지 않습니다",
+      price: 0,
+      image: "/images/stab/cheery.png",
+    },
     { name: "사막테빌", price: 10000, image: "/images/stab/four.png" },
     { name: "나테빌 v3", price: 18000, image: "/images/stab/knight.png" },
     { name: "타테빌", price: 18000, image: "/images/stab/type.png" },
@@ -102,7 +106,7 @@ const components = {
       image: "/images/switch/lucifer.png",
     },
     { name: "DUHUK Core 65개", price: 38000, image: "/images/switch/core.png" },
-    { name: "Owlab Ti 65개", price: 41500, image: "/images/switch/ti.png" },
+    { name: "Owlab Ti 65개", price: 39500, image: "/images/switch/ti.png" },
     { name: "RAW HE 64개", price: 40000, image: "/images/switch/raw.png" },
     {
       name: "Lucifer HE 70개",
