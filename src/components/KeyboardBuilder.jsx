@@ -232,7 +232,12 @@ const availableByLayout = {
   80: {
     housing: ["타이거라이트 F12"],
     plate: ["fr4 보강판 기본 포함"],
-    stabilizer: ["체테빌 기본 포함", "사막테빌", "나테빌 v3", "타테빌"],
+    stabilizer: [
+      "체테빌 기본 포함, 스테빌 변경시, 기본스테빌은 제공되지 않습니다",
+      "사막테빌",
+      "나테빌 v3",
+      "타테빌",
+    ],
     switch: [
       "Lucifer HE 90개",
       "DUHUK Core 90개",
